@@ -1,3 +1,8 @@
+Conectores Tika Apache
+https://tika.apache.org/download.html
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 https://www.javatpoint.com/tika-extracting-pdf-file
 
 http://www.jrimum.org/jrimum/wiki/Projeto/Download
